@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea 1 estructura de datos", "tarea 1 estructura de datos\tarea 1 estructura de datos.csproj", "{BBCE3AFC-2483-44EC-800E-721BFF1DE03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCE3AFC-2483-44EC-800E-721BFF1DE03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCE3AFC-2483-44EC-800E-721BFF1DE03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCE3AFC-2483-44EC-800E-721BFF1DE03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCE3AFC-2483-44EC-800E-721BFF1DE03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDDC110A-7C1E-43C2-96E0-53424C6B912D}
+	EndGlobalSection
+EndGlobal
