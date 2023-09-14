@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tarea_1_estructura_de_datos.Class.CommunityMembers">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAACAAgAAAAAAAAAQAAAAAAAAAAAAAAACAAAg=</HashCode>
+      <FileName>Class\CM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.ExStudent">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\ExStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Student">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Class\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Employer">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAKAAAAAAAAAAAAAgAAAAEAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Class\Employer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Administrative">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Administrative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Docent">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Docent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Teacher">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea_1_estructura_de_datos.Class.Admin">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAIAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Class\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
